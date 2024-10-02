@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-👋 Hi there! I’m a passionate Frontend Developer with 3.5 years of experience in creating engaging web applications. My toolkit includes:
+👋 Hi there! I’m a passionate Frontend Developer with around 4 years of experience in creating engaging web applications. My toolkit includes:
 
 - **React** & **Next.js** for building dynamic, high-performance user interfaces.
 - **Strapi** & **Drupal** for powerful content management solutions.
